@@ -1,0 +1,11 @@
+{
+  "name": "ToDoApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "expo": "^40.0.1",
+    "expo-cli": "^4.3.4"
+  }
+}
